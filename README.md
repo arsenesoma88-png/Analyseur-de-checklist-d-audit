@@ -70,5 +70,3 @@ analyseur-checklist-audit/
 ├── analyseur-checklist-audit-vf.py          # script principal
 └── data/
     └── checklist.xlsx    # fichier d’exemple
-
-
